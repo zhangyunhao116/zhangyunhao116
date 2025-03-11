@@ -7,9 +7,9 @@ My research focuses on high-performance concurrent data structures and algorithm
 ## Articles
 
 - [mixhash: a simple hash algorithm specifically designed for uint64 hashmap](https://github.com/zhangyunhao116/mixhash/blob/master/README.md)
-- [Build a High-Performance sorting algorithm in Go<CN>](https://mp.weixin.qq.com/s/5HqfRGqPyAhFt0krPgMHOQ)
-- [Scalable MPMC queue in Go language<CN>](https://github.com/zhangyunhao116/public-data/blob/master/articles/Scalable MPMC queue in Go language.md)
-- [Hash Algorithms and Pseudorandom Number Generators<CN>](https://github.com/zhangyunhao116/public-data/blob/master/articles/Hash Algorithms and Pseudorandom Number Generators.md)
+- [Build a High-Performance sorting algorithm in Go&#91;CN&#93;](https://mp.weixin.qq.com/s/5HqfRGqPyAhFt0krPgMHOQ)
+- [Scalable MPMC queue in Go language&#91;CN&#93;](https://github.com/zhangyunhao116/public-data/blob/master/articles/Scalable MPMC queue in Go language.md)
+- [Hash Algorithms and Pseudorandom Number Generators&#91;CN&#93;](https://github.com/zhangyunhao116/public-data/blob/master/articles/Hash Algorithms and Pseudorandom Number Generators.md)
 
 
 
