@@ -1,6 +1,6 @@
 ## YUNHAO ZHANG
 
-My research focuses on high-performance concurrent data structures and algorithms, programming language runtime (Go and Rust), standard library, and LLM inference optimization.
+My research focuses on high-performance concurrent data structures and algorithms, programming language runtime (Go and Rust), standard library.
 
 
 
