@@ -1,6 +1,6 @@
 ## YUNHAO ZHANG
 
-My research focuses on AI agent, multi-agent orchestration, context compaction for long-running tasks, high-performance concurrent data structures and algorithms, programming language runtime (Go and Rust), standard library.
+My research focuses on AI agent, multi-agent orchestration, memory, ong-running tasks, high-performance concurrent data structures and algorithms, programming language runtime (Go and Rust), standard library.
 
 
 
