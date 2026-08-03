@@ -8,7 +8,6 @@ My research focuses on AI agent, multi-agent orchestration, context compaction f
 
 - [Build a High-Performance sorting algorithm in Go[CN]](https://mp.weixin.qq.com/s/5HqfRGqPyAhFt0krPgMHOQ)
 - [Scalable MPMC queue in Go language[CN]](https://github.com/zhangyunhao116/public-data/blob/master/articles/Scalable%20MPMC%20queue%20in%20Go%20language.md)
-- [Hash Algorithms and Pseudorandom Number Generators[CN]](https://github.com/zhangyunhao116/public-data/blob/master/articles/Hash%20Algorithms%20and%20Pseudorandom%20Number%20Generators.md)
 - [mixhash: a simple hash algorithm specifically designed for uint64 hashmap](https://github.com/zhangyunhao116/mixhash/blob/master/README.md)
 
 
